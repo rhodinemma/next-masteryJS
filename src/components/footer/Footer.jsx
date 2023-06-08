@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => {
-  return <div>Footer</div>;
+  return <div>&copy; 2023 NextJs Mastery. All rights reserved</div>;
 };
 
 export default Footer;
